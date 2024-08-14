@@ -1,0 +1,20 @@
+/* stylesheet for css recipes -> index.html */
+
+h1 {
+    font-weight: bold;
+    font-family: "Papyrus", Verdana;
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+p {
+    font-size: large;
+    font-family: "Comic Sans", Verdana;
+    color: blue;
+}
+
+li {
+    background-color: lightcoral;
+    font-weight: bold;
+}
